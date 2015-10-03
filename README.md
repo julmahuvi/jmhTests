@@ -12,9 +12,10 @@ run mvn targets clean & install
 Install JMH plugin
 Right click under benchmark method and select Run (MapBenchmark.main)
 
+#Results
 
-Run takes about ~5mins to complete, results are something like this:
-# Run complete. Total time: 00:05:11
+Run takes about ~5mins to complete, results are something like this in my computer (MacBook Pro [Early 2013], i7 2.4Ghz, 8GB):
+Run complete. Total time: 00:05:11
 
 Benchmark                        Mode    Cnt        Score        Error  Units
 MapBenchmark.t1_SmallTest       thrpt      5        8.098 ±      0.319  ops/s
