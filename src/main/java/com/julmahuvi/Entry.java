@@ -1,8 +1,5 @@
 package com.julmahuvi;
 
-/**
- * Created by tuomaala_petri on 03/10/15.
- */
 public class Entry {
     private String a;
     private String b;
