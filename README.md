@@ -16,7 +16,7 @@ run mvn targets clean & install
 
 Install JMH plugin
 
-Right click under benchmark method and select Run (MapBenchmark.main)
+Right click benchmark method and select Run (MapBenchmark.main)
 
 #Results
 
